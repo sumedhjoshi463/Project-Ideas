@@ -488,7 +488,7 @@
         "platform": "YouTube",
         "duration": "58:48",
         "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
-    }
+    },
 
 {      "id": 55,
         "projectName": "Bank Management System with cpp",
@@ -496,7 +496,7 @@
         "platform":"Youtube",
         "duration": "36:34",
         "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
-}
+},
 
 {      "id": 56,
         "projectName": "Blockchain based Ethereum Transaction Platform",
@@ -504,7 +504,7 @@
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
-}
+},
 {
         "id": 999,
         "projectName": "Build a Notes Taking Website",
@@ -519,7 +519,7 @@
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
-}
+},
 
 {      "id": 57,
         "projectName": "Track Phone Number Location",
@@ -527,6 +527,13 @@
         "platform":"Youtube",
         "duration": "00:07:50",
         "youtubeLink": "https://youtu.be/uuflFk_LQ-E"
+},
+{      "id": 58,
+        "projectName": "Creating Myntra Clone",
+        "languages": "HTML, CSS & JavaScript",
+        "platform":"Youtube",
+        "duration": "01:15:48",
+        "youtubeLink": "https://www.youtube.com/watch?v=xhWHf-bMElk&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=13"
 }
 
 ]
