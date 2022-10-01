@@ -488,7 +488,7 @@
         "platform": "YouTube",
         "duration": "58:48",
         "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
-    }
+    },
 
 {      "id": 55,
         "projectName": "Bank Management System with cpp",
@@ -496,7 +496,7 @@
         "platform":"Youtube",
         "duration": "36:34",
         "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
-}
+},
 
 {      "id": 56,
         "projectName": "Blockchain based Ethereum Transaction Platform",
@@ -504,7 +504,7 @@
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
-}
+},
 {
         "id": 999,
         "projectName": "Build a Notes Taking Website",
@@ -535,6 +535,53 @@
         "platform":"Youtube",
         "duration": "01:08:56",
         "youtubeLink": "https://youtu.be/xoYuJzEyIY4"
+},
+{      "id": 58,
+        "projectName": "Creating Myntra Clone",
+        "languages": "HTML, CSS & JavaScript",
+        "platform":"Youtube",
+        "duration": "01:15:48",
+        "youtubeLink": "https://www.youtube.com/watch?v=xhWHf-bMElk&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=13"
+
+{
+        "id": 58,
+        "projectName": "Calculator",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "00:38:00",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
+    {      "id": 67,
+        "projectName": "Scare Crow using Sensors",
+        "languages": "Python",
+        "platform":"Youtube",
+        "duration": "00:15:34",
+        "youtubeLink": "https://www.youtube.com/watch?v=Idrz4naM9Rc"
+},
+
+}
+{
+
+        "id": 24,
+
+        "projectName": "Vaccine Management System",
+
+        "languages": "C++",
+
+        "platform": "YouTube"
+
+        "duration": "13:48",
+
+        "youtubeLink": "https://youtu.be/Ve5wrjvDspw"
+
+},
+{      "id": 90,
+        "projectName": "introduction to microsoft",
+        "languages": "english",
+        "platform":"Youtube",
+        "duration": "04:57:06",
+        "youtubeLink": "https://youtu.be/5v_42_4Vl2o"
+
 }
 
 
