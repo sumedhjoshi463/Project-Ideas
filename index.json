@@ -528,6 +528,14 @@
         "duration": "00:07:50",
         "youtubeLink": "https://youtu.be/uuflFk_LQ-E"
 },
+
+{      "id": 58,
+        "projectName": "Automatic Instagram Post maker",
+        "languages": "Python , html , CSSS, JS",
+        "platform":"Youtube",
+        "duration": "01:08:56",
+        "youtubeLink": "https://youtu.be/xoYuJzEyIY4"
+},
 {      "id": 58,
         "projectName": "Creating Myntra Clone",
         "languages": "HTML, CSS & JavaScript",
@@ -575,6 +583,7 @@
         "youtubeLink": "https://youtu.be/5v_42_4Vl2o"
 
 }
+
 
 ]
 
