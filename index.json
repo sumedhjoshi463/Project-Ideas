@@ -488,23 +488,21 @@
         "platform": "YouTube",
         "duration": "58:48",
         "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
-    }
-
+    },
 {      "id": 55,
         "projectName": "Bank Management System with cpp",
         "languages": "C++",
         "platform":"Youtube",
         "duration": "36:34",
         "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
-}
-
+},
 {      "id": 56,
         "projectName": "Blockchain based Ethereum Transaction Platform",
         "languages": "Solidity",
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
-}
+},
 {
         "id": 999,
         "projectName": "Build a Notes Taking Website",
@@ -519,14 +517,22 @@
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
-}
-
+},
 {      "id": 57,
         "projectName": "Track Phone Number Location",
         "languages": "Python",
         "platform":"Youtube",
         "duration": "00:07:50",
         "youtubeLink": "https://youtu.be/uuflFk_LQ-E"
+},
+    {      "id": 67,
+        "projectName": "Scare Crow using Sensors",
+        "languages": "Python",
+        "platform":"Youtube",
+        "duration": "00:15:34",
+        "youtubeLink": "https://www.youtube.com/watch?v=Idrz4naM9Rc"
+},
+
 }
 {
 
