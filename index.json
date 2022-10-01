@@ -525,6 +525,15 @@
         "duration": "00:07:50",
         "youtubeLink": "https://youtu.be/uuflFk_LQ-E"
 },
+
+{
+        "id": 58,
+        "projectName": "Calculator",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "00:38:00",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
     {      "id": 67,
         "projectName": "Scare Crow using Sensors",
         "languages": "Python",
