@@ -528,6 +528,21 @@
         "duration": "00:07:50",
         "youtubeLink": "https://youtu.be/uuflFk_LQ-E"
 }
+{
+
+        "id": 24,
+
+        "projectName": "Vaccine Management System",
+
+        "languages": "C++",
+
+        "platform": "YouTube"
+
+        "duration": "13:48",
+
+        "youtubeLink": "https://youtu.be/Ve5wrjvDspw"
+
+},
 {      "id": 90,
         "projectName": "introduction to microsoft",
         "languages": "english",
@@ -535,7 +550,6 @@
         "duration": "04:57:06",
         "youtubeLink": "https://youtu.be/5v_42_4Vl2o"
 }
-
 
 ]
 
